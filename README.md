@@ -1,4 +1,4 @@
-# tg_bot_price_photo_rec
+# Телеграм бот tg_bot_price_photo_rec
 
 ## Возможности Телеграм бота
 <ul>
